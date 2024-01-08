@@ -1,0 +1,3 @@
+LexToken(NAME,'hello',1,0)
+LexToken(NAME,'world',1,6)
+LexToken(NUMBER,0,1,12)
